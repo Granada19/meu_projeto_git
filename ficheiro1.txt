@@ -1,6 +1,7 @@
+
 Este é o exemplo de um ficheiro
 
 Estou a alterar
 
-
+ALTERAÇÕES EFETUADAS NO BRANCH 'NOVA FEATUREX'
 
